@@ -18,11 +18,13 @@ The **Dungeon Remastered Pack** is a bundle of game assets that contains over **
 - Free for personal and commercial use, no attribution required. (CC0 Licensed)
 - Included files are .FBX, .GLTF, and .OBJ. The files are compatible with pretty much any 3D game engine on the market (including Unity, Godot, Unreal Engine, Roblox, and more).
 
+## More information
+
 ### Versions
 
 By purchasing the extra version you get some additional content while also supporting me to continue creating game assets :)
 
-More information about the extra and source version you can find on my [itch.io](https://kaylousberg.itch.io/kaykit-dungeon-remastered)
+More information about the extra and source version you can find on my [itch.io page](https://kaylousberg.itch.io/kaykit-dungeon-remastered)
 
 ### Join the Community
 
@@ -34,8 +36,9 @@ I'd love to keep creating stuff for free, so any (aspiring) gamedev has access t
 
 To help me create more *free stuff*, consider purchasing one of the additional versions or check out my [Patreon](https://www.patreon.com/kaylousberg/posts) where you **get access to future packs earlier** and **receive a mystery character each month!**
 
+
 [![Support on Patreon](https://img.itch.zone/aW1nLzQ2MjcxNTQucG5n/original/%2FQqPaX.png)](https://www.patreon.com/kaylousberg/posts)
 
 ## License
 
-Licensed under CC0 1.0 Universal, see [License.txt](License.txt) for more information.
+Licensed under CC0 1.0 Universal, see [LICENSE.txt](LICENSE.txt) for more information.
