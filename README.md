@@ -32,9 +32,9 @@ If you have any suggestions or questions, or just want to show of your project y
 
 ### Additional support 
 
-I'd love to keep creating stuff for free, so any (aspiring) gamedev has access to cool looking assets and can start creating fun games.
+Love my game assets? Help me create more by supporting me on [Patreon](https://www.patreon.com/kaylousberg/posts). Get **early access**, **vote on future packs**, and **receive a mystery character every month**.
 
-To help me create more *free stuff*, consider purchasing one of the additional versions or check out my [Patreon](https://www.patreon.com/kaylousberg/posts) where you **get access to future packs earlier** and **receive a mystery character each month!**
+Can't contribute financially? Simply spread the word to your gamedev friends or favorite content creators. Your support means a lot :) 
 
 
 [![Support on Patreon](https://img.itch.zone/aW1nLzQ2MjcxNTQucG5n/original/%2FQqPaX.png)](https://www.patreon.com/kaylousberg/posts)
