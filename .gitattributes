@@ -5,3 +5,8 @@
 /**        export-ignore
 /addons    !export-ignore
 /addons/** !export-ignore
+/addons/kaykit_dungeon_remastered/** export-ignore
+/addons/kaykit_dungeon_remastered/Assets !export-ignore
+/addons/kaykit_dungeon_remastered/Assets/** !export-ignore
+/addons/kaykit_dungeon_remastered/Assets/fbx export-ignore
+/addons/kaykit_dungeon_remastered/Assets/fbx(unity) export-ignore
